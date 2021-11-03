@@ -1,2 +1,2 @@
-# Project_Mercury-
+# Project_Mercury
 Personal Finance Tracking Application. 
