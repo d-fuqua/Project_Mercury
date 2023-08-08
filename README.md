@@ -1,4 +1,5 @@
 # Project_Mercury
-Personal Finance Tracking Application. 
+## A Personal Finance Tracking Application built using JavaScript, React, Python and MySQL. Hosted on AWS.
 
-The node_modules folders were .gitignored, so if you want to run the UI locally you will need to download the libraries used
+### Entity Relationship Diagram
+![Stage2_ERD_scheme](https://github.com/d-fuqua/Project_Mercury/assets/68402521/6e64eba8-f853-4ca6-b667-d022f8bfb35e)
